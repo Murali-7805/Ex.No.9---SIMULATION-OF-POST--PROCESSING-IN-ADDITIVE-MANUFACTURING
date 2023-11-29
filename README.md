@@ -33,6 +33,8 @@
 
 ## OUTPUT :
 
+
+
 ## Support Removal Process
 ![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
 ![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
@@ -46,9 +48,10 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![image](https://github.com/Murali-7805/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151489752/32edf813-b629-462b-9793-74c818523f8a)
 
-### Name:
-### Register Number:
+### Name:Murali Krishna.S
+### Register Number:23012882
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
